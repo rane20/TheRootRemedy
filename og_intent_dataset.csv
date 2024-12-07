@@ -1,0 +1,501 @@
+Sentence_Type,Sentence,Sentiment,Intent
+Gut Health and Wellness Sentences,"Reliably, the invigorated bacteria supports your health journey effectively.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Reliably, the nourished immune system supports your health journey effectively.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"For a restored life, use microbiome to protects gut health naturally.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"For a vibrant life, use probiotic to stimulates gut health naturally.",Positive,Gut Supplements Inquiry
+Gut Health and Wellness Sentences,"The resilient nutrients protects your overall wellness consistently, ensuring optimal gut health.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"The functional fiber balances your overall wellness reliably, ensuring optimal gut health.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"A microbiome facilitates regularly, leaving you feeling vibrant and balanced.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"For a restored life, use flora to energizes gut health naturally.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"A digestion improves consistently, leaving you feeling strong and balanced.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The flourishing nutrients improves your overall wellness naturally, ensuring optimal gut health.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"Holistically, the healthy nutrition supports your health journey effectively.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"The resilient gut enhances your overall wellness gently, ensuring optimal gut health.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"For a invigorated life, use health to boosts gut health naturally.",Positive,General Inquiry
+Gut Health and Wellness Sentences,"Gently, the balanced hydration supports your health journey effectively.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"Effectively, the strong hydration supports your health journey effectively.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"Consistently, the functional flora supports your health journey effectively.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Naturally, the radiant enzyme supports your health journey effectively.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"A fiber strengthens naturally, leaving you feeling invigorated and balanced.",Positive,General Inquiry
+Gut Health and Wellness Sentences,"The strong microbiome promotes your overall wellness reliably, ensuring optimal gut health.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"For a well-rounded life, use metabolism to promotes gut health naturally.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"For a nourished life, use bacteria to supports gut health naturally.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"For a healthy life, use nutrition to energizes gut health naturally.",Negative,Wellness Inquiry
+Gut Health and Wellness Sentences,"The nourished metabolism balances your overall wellness regularly, ensuring optimal gut health.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Effectively, the resilient health supports your health journey effectively.",Positive,General Inquiry
+Gut Health and Wellness Sentences,"For a radiant life, use prebiotic to nourishes gut health naturally.",Positive,Beauty Inquiry
+Gut Health and Wellness Sentences,"Holistically, the restored probiotic supports your health journey effectively.",Positive,Gut Supplements Inquiry
+Gut Health and Wellness Sentences,"Naturally, the flourishing nutrients supports your health journey effectively.",Positive,General Inquiry
+Gut Health and Wellness Sentences,"For a nourished life, use enzyme to restores gut health naturally.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"A metabolism balances naturally, leaving you feeling well-rounded and balanced.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The wholesome gut balances your overall wellness consistently, ensuring optimal gut health.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"Regularly, the radiant flora supports your health journey effectively.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The active probiotic protects your overall wellness reliably, ensuring optimal gut health.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"A fiber regulates thoroughly, leaving you feeling wholesome and balanced.",Positive,General Inquiry
+Gut Health and Wellness Sentences,"Regularly, the resilient gut supports your health journey effectively.",Positive,General Inquiry
+Gut Health and Wellness Sentences,"A bacteria stimulates gently, leaving you feeling healthy and balanced.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"For a balanced life, use metabolism to stimulates gut health naturally.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"For a well-rounded life, use probiotic to regulates gut health naturally.",Negative,Gut Supplements Inquiry
+Gut Health and Wellness Sentences,"The wholesome immune system balances your overall wellness naturally, ensuring optimal gut health.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"For a invigorated life, use health to enhances gut health naturally.",Positive,General Inquiry
+Gut Health and Wellness Sentences,"Gently, the vibrant metabolism supports your health journey effectively.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"For a wholesome life, use metabolism to transforms gut health naturally.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"A health strengthens regularly, leaving you feeling vibrant and balanced.",Positive,General Inquiry
+Gut Health and Wellness Sentences,"For a radiant life, use nutrients to energizes gut health naturally.",Positive,Beauty Inquiry
+Gut Health and Wellness Sentences,"A nutrients stimulates naturally, leaving you feeling healthy and balanced.",Positive,General Inquiry
+Gut Health and Wellness Sentences,"Thoroughly, the vibrant digestion supports your health journey effectively.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Consistently, the balanced flora supports your health journey effectively.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The functional health energizes your overall wellness gently, ensuring optimal gut health.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"The healthy digestion nourishes your overall wellness holistically, ensuring optimal gut health.",Positive,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Holistically, the restored fiber supports your health journey effectively.",Positive,General Inquiry
+Gut Health and Wellness Sentences,"The wholesome nutrients protects your overall wellness optimally, ensuring optimal gut health.",Positive,Wellness Inquiry
+Gut Health and Wellness Sentences,"Poorly, the imbalanced discomfort disrupts your gut health completely.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Improper use of cramps weakens abruptly, leaving you feeling sore and weak.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Harshly, the imbalanced constipation disrupts your gut health completely.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Overuse of diarrhea obstructs your system irregularly, making it bloating.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The weak constipation disrupts your gut uncomfortably, causing discomfort and poor health.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Overuse of constipation affects your system intensely, making it bad.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Overuse of cramps harms your system severely, making it cramped.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Abruptly, the unhealthy pain disrupts your gut health completely.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Harshly, the toxic pain disrupts your gut health completely.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Overuse of gas obstructs your system intensely, making it cramped.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The sensitive toxins disrupts your gut painfully, causing discomfort and poor health.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Overuse of constipation weakens your system irregularly, making it inflamed.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The toxic inflammation worsens your gut severely, causing discomfort and poor health.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Overuse of discomfort worsens your system severely, making it harmful.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Improper use of constipation deteriorates uncomfortably, leaving you feeling damaged and weak.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Improper use of bloating affects painfully, leaving you feeling inflamed and weak.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Overuse of diarrhea aggravates your system unpredictably, making it weak.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The bloating malabsorption damages your gut irregularly, causing discomfort and poor health.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Improper use of constipation obstructs intensely, leaving you feeling harmful and weak.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Overuse of inflammation upsets your system abruptly, making it sensitive.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"The cramped constipation obstructs your gut painfully, causing discomfort and poor health.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Irregularly, the unhealthy gas disrupts your gut health completely.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The inflamed diarrhea hurts your gut painfully, causing discomfort and poor health.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Overuse of toxins disrupts your system intensely, making it damaged.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"The bloating inflammation obstructs your gut painfully, causing discomfort and poor health.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The bad fatigue damages your gut harshly, causing discomfort and poor health.",Negative,Wellness Inquiry
+Gut Health and Wellness Sentences,"Improper use of irritation deteriorates poorly, leaving you feeling disrupted and weak.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Overuse of cramps worsens your system painfully, making it bad.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Overuse of pain hurts your system poorly, making it sore.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"The unhealthy diarrhea deteriorates your gut irregularly, causing discomfort and poor health.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Improper use of inflammation harms harshly, leaving you feeling unhealthy and weak.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Overuse of cramps upsets your system uncomfortably, making it harmful.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Irregularly, the damaged discomfort disrupts your gut health completely.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Improper use of discomfort aggravates uncomfortably, leaving you feeling harmful and weak.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"The unhealthy constipation disrupts your gut negatively, causing discomfort and poor health.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The damaged inflammation upsets your gut poorly, causing discomfort and poor health.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Overuse of inflammation deteriorates your system poorly, making it bad.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Overuse of constipation worsens your system harshly, making it imbalanced.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Painfully, the irritated inflammation disrupts your gut health completely.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"The irritated cramps damages your gut intensely, causing discomfort and poor health.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Irregularly, the fatigued weakness disrupts your gut health completely.",Negative,Wellness Inquiry
+Gut Health and Wellness Sentences,"The fatigued bloating harms your gut harshly, causing discomfort and poor health.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The imbalanced discomfort weakens your gut intensely, causing discomfort and poor health.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"The sore inflammation hurts your gut irregularly, causing discomfort and poor health.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Negatively, the bloating malabsorption disrupts your gut health completely.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"The sensitive bloating obstructs your gut abruptly, causing discomfort and poor health.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Intensely, the sensitive bloating disrupts your gut health completely.",Negative,Gut Health Inquiry
+Gut Health and Wellness Sentences,"Painfully, the unhealthy toxins disrupts your gut health completely.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Severely, the toxic inflammation disrupts your gut health completely.",Negative,General Inquiry
+Gut Health and Wellness Sentences,"Intensely, the harmful cramps disrupts your gut health completely.",Negative,General Inquiry
+Gut Health and Beauty Sentences,The clear biotin enhances gut health and beauty gently.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,A collagen that promotes beauty and gut health is essential for a glowing complexion.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,A hyaluronic acid that promotes beauty and gut health is essential for a glowing complexion.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,Using beauty supplement can nourish your skin and gut health naturally.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,A prebiotic that promotes beauty and gut health is essential for a glowing complexion.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"Safely, the vibrant digestive system supports your beauty from within.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,The healthy fiber enhances gut health and beauty optimally.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,The invigorated probiotic enhances gut health and beauty safely.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"Thoroughly, the firm hydration supports your beauty from within.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"For radiant skin, fiber boosts gut health optimally.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,A wellness that promotes beauty and gut health is essential for a glowing complexion.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,The vibrant antioxidant enhances gut health and beauty effectively.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,The radiant prebiotic enhances gut health and beauty thoroughly.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"A firm digestive system hydrates optimally, ensuring balanced skin health.",Positive,Skin Health Inquiry
+Gut Health and Beauty Sentences,Using probiotic can nourish your skin and gut health safely.,Positive,Skin Health Inquiry
+Gut Health and Beauty Sentences,The youthful gut enhances gut health and beauty consistently.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"Naturally, the youthful nutrition supports your beauty from within.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,A antioxidant that promotes beauty and gut health is essential for a glowing complexion.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,The vibrant skin health enhances gut health and beauty quickly.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,A skin health that promotes beauty and gut health is essential for a glowing complexion.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"For radiant skin, prebiotic boosts gut health naturally.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"A glowing biotin supports gently, ensuring balanced skin health.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"For radiant skin, antioxidant boosts gut health effectively.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,A nutrition that promotes beauty and gut health is essential for a glowing complexion.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"Gently, hyaluronic acid clears your beauty routine, leaving you youthful.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,A hyaluronic acid that promotes beauty and gut health is essential for a glowing complexion.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,The youthful wellness enhances gut health and beauty thoroughly.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"For radiant skin, digestive system boosts gut health optimally.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"A glowing prebiotic clears effectively, ensuring balanced skin health.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"Holistically, the nourished hyaluronic acid supports your beauty from within.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,The hydrated biotin enhances gut health and beauty safely.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"For radiant skin, nutrition boosts gut health thoroughly.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"For radiant skin, probiotic boosts gut health consistently.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"Effectively, the youthful hydration supports your beauty from within.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"A supple microbiome hydrates deeply, ensuring balanced skin health.",Positive,Gut Health Inquiry
+Gut Health and Beauty Sentences,"For radiant skin, collagen boosts gut health effectively.",Positive,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Deeply, the healthy nutrition supports your beauty from within.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"Deeply, hydration improves your beauty routine, leaving you balanced.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,The nourished skin health enhances gut health and beauty optimally.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"A vibrant beauty supplement optimizes naturally, ensuring balanced skin health.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"For radiant skin, prebiotic boosts gut health quickly.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"Consistently, hydration improves your beauty routine, leaving you glowing.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,The balanced skin health enhances gut health and beauty optimally.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"A balanced hydration protects effectively, ensuring balanced skin health.",Positive,Wellness Inquiry
+Gut Health and Beauty Sentences,The balanced hydration enhances gut health and beauty thoroughly.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"For radiant skin, wellness boosts gut health consistently.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,"A nourished skin health restores safely, ensuring balanced skin health.",Positive,Skin Health Inquiry
+Gut Health and Beauty Sentences,"For radiant skin, wellness boosts gut health optimally.",Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,Using beauty supplement can nourish your skin and gut health gently.,Positive,Beauty Inquiry
+Gut Health and Beauty Sentences,Using microbiome can nourish your skin and gut health safely.,Positive,Gut Health Inquiry
+Gut Health and Beauty Sentences,"Improper use of sensitivity inflames your gut health, leaving skin unhealthy.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Irregularly, flaky toxins obstructs skin and gut, worsening wellness.",Negative,Wellness Inquiry
+Gut Health and Beauty Sentences,"Abruptly, dull sensitivity harms skin and gut, worsening wellness.",Negative,Wellness Inquiry
+Gut Health and Beauty Sentences,"Irritation irritates skin health harshly, helping achieve a sensitive complexion.",Negative,Gut Health Inquiry
+Gut Health and Beauty Sentences,"An overuse of redness obstructs your system harshly, causing sensitive results.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"An overuse of flakiness harms your system negatively, causing inflamed results.",Negative,General Inquiry
+Gut Health and Beauty Sentences,"Irregularly, dry sensitivity damages skin and gut, worsening wellness.",Negative,Wellness Inquiry
+Gut Health and Beauty Sentences,"Negatively, acne harms your skin health negatively, leading to flaky issues.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Irregularly, flakiness damages your skin health irregularly, leading to inflamed issues.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Negatively, blemished acne worsens skin and gut, worsening wellness.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"An overuse of breakouts weakens your system intensely, causing sensitive results.",Negative,General Inquiry
+Gut Health and Beauty Sentences,"An overuse of acne harms your system unpredictably, causing damaged results.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Improper use of breakouts inflames your gut health, leaving skin damaged.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Abruptly, breakouts damages your skin health abruptly, leading to inflamed issues.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"An overuse of irritation inflames your system irregularly, causing flaky results.",Negative,Gut Health Inquiry
+Gut Health and Beauty Sentences,"Severely, irritation weakens your skin health severely, leading to flaky issues.",Negative,Gut Health Inquiry
+Gut Health and Beauty Sentences,"Negatively, blemishes disrupts your skin health negatively, leading to blemished issues.",Negative,Beauty Inquiry
+Gut Health and Beauty Sentences,"Blemishes disrupts skin health irregularly, helping achieve a damaged complexion.",Negative,Beauty Inquiry
+Gut Health and Beauty Sentences,"Abruptly, irritated acne irritates skin and gut, worsening wellness.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Severely, unhealthy irritation worsens skin and gut, worsening wellness.",Negative,Gut Health Inquiry
+Gut Health and Beauty Sentences,"Harshly, sensitive dryness harms skin and gut, worsening wellness.",Negative,Beauty Inquiry
+Gut Health and Beauty Sentences,"Severely, toxins damages your skin health severely, leading to inflamed issues.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Improper use of redness irritates your gut health, leaving skin irritated.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"An overuse of flakiness weakens your system severely, causing flaky results.",Negative,General Inquiry
+Gut Health and Beauty Sentences,"Toxins disrupts skin health unpredictably, helping achieve a unhealthy complexion.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Inflammation damages skin health harshly, helping achieve a dull complexion.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"An overuse of redness inflames your system unpredictably, causing irritated results.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Irregularly, redness irritates your skin health irregularly, leading to inflamed issues.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Sensitivity aggravates skin health poorly, helping achieve a inflamed complexion.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Sensitivity damages skin health abruptly, helping achieve a sensitive complexion.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Negatively, dryness worsens your skin health negatively, leading to dry issues.",Negative,Beauty Inquiry
+Gut Health and Beauty Sentences,"Negatively, damaged acne obstructs skin and gut, worsening wellness.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Unpredictably, sensitivity irritates your skin health unpredictably, leading to flaky issues.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"An overuse of blemishes irritates your system unpredictably, causing inflamed results.",Negative,Beauty Inquiry
+Gut Health and Beauty Sentences,"Improper use of redness disrupts your gut health, leaving skin flaky.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Redness weakens skin health harshly, helping achieve a dry complexion.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Improper use of flakiness disrupts your gut health, leaving skin inflamed.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Irregularly, blemished acne weakens skin and gut, worsening wellness.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"An overuse of breakouts weakens your system negatively, causing dry results.",Negative,General Inquiry
+Gut Health and Beauty Sentences,"Improper use of sensitivity weakens your gut health, leaving skin flaky.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Improper use of toxins inflames your gut health, leaving skin blemished.",Negative,Beauty Inquiry
+Gut Health and Beauty Sentences,"Improper use of inflammation worsens your gut health, leaving skin blemished.",Negative,Beauty Inquiry
+Gut Health and Beauty Sentences,"Dryness harms skin health severely, helping achieve a flaky complexion.",Negative,Beauty Inquiry
+Gut Health and Beauty Sentences,"Sensitivity worsens skin health abruptly, helping achieve a blemished complexion.",Negative,Beauty Inquiry
+Gut Health and Beauty Sentences,"Severely, breakouts irritates your skin health severely, leading to flaky issues.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Unpredictably, unhealthy toxins worsens skin and gut, worsening wellness.",Negative,Wellness Inquiry
+Gut Health and Beauty Sentences,"Improper use of sensitivity damages your gut health, leaving skin dull.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Inflammation disrupts skin health abruptly, helping achieve a inflamed complexion.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"An overuse of redness aggravates your system negatively, causing unhealthy results.",Negative,Skin Health Inquiry
+Gut Health and Beauty Sentences,"Unpredictably, blemishes worsens your skin health unpredictably, leading to sensitive issues.",Negative,Beauty Inquiry
+Gut Health and Gut Supplements Sentences,A microorganism that strengthens effectively can make your gut healthy.,Positive,General Inquiry
+Gut Health and Gut Supplements Sentences,A healthy gut that regulates holistically can make your gut invigorated.,Positive,General Inquiry
+Gut Health and Gut Supplements Sentences,"Naturally, the fiber supplement restores gut health and leaves the digestive system vibrant.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,A fiber supplement that optimizes optimally can make your gut diverse.,Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,The healthy digestion strengthens gut health effectively.,Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An invigorated prebiotic regulates your digestion naturally, impacting gut flora.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Naturally, the nourished fiber supplement improves your gut flora.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Optimally, the balanced bacteria regulates your gut flora.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,A wellness that stimulates effectively is essential for maintaining a healthy gut.,Positive,Wellness Inquiry
+Gut Health and Gut Supplements Sentences,The functional prebiotic protects gut health holistically.,Positive,Gut Supplements Inquiry
+Gut Health and Gut Supplements Sentences,"With a healthy metabolism, gut health is restores reliably.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Consistently, the prebiotic boosts gut health and leaves the digestive system balanced.",Positive,Gut Supplements Inquiry
+Gut Health and Gut Supplements Sentences,"For resilient gut health, a metabolism stimulates optimally.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Reliably, the bacteria activates gut health and leaves the digestive system restored.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An diverse fermentation stimulates your digestion effectively, impacting gut flora.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An invigorated gut balances your digestion safely, impacting gut flora.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"With a nourished microbiome, gut health is enhances quickly.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,A bacteria that nourishes effectively can make your gut invigorated.,Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"With a wholesome microbiome, gut health is enhances effectively.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,A digestion that optimizes reliably can make your gut diverse.,Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"With a balanced enzyme, gut health is supports holistically.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Fiber supplement balances gut health safely, promoting a cleansed microbiome.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"With a resilient bacteria, gut health is strengthens optimally.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Metabolism restores gut health efficiently, promoting a flourishing microbiome.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,The restored wellness boosts gut health consistently.,Positive,Wellness Inquiry
+Gut Health and Gut Supplements Sentences,"Fiber supplement protects gut health naturally, promoting a resilient microbiome.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,The healthy prebiotic strengthens gut health quickly.,Positive,Gut Supplements Inquiry
+Gut Health and Gut Supplements Sentences,The flourishing gut transforms gut health consistently.,Positive,General Inquiry
+Gut Health and Gut Supplements Sentences,Using a prebiotic can stimulates your digestive system gradually.,Negative,Gut Supplements Inquiry
+Gut Health and Gut Supplements Sentences,"An active fermentation improves your digestion naturally, impacting gut flora.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Gently, the healthy gut activates gut health and leaves the digestive system invigorated.",Positive,General Inquiry
+Gut Health and Gut Supplements Sentences,"For functional gut health, a digestive system regulates gradually.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,A metabolism that protects gently can make your gut strong.,Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,A enzyme that transforms quickly is essential for maintaining a healthy gut.,Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Gently, the functional microorganism restores your gut flora.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,The flourishing gut supports gut health efficiently.,Positive,General Inquiry
+Gut Health and Gut Supplements Sentences,A probiotic that regulates gradually can make your gut active.,Positive,Gut Supplements Inquiry
+Gut Health and Gut Supplements Sentences,A bacteria that stimulates optimally is essential for maintaining a healthy gut.,Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An healthy microbiome protects your digestion quickly, impacting gut flora.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Prebiotic boosts gut health naturally, promoting a vibrant microbiome.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,The healthy gut nourishes gut health safely.,Positive,General Inquiry
+Gut Health and Gut Supplements Sentences,Using a healthy gut can improves your digestive system efficiently.,Positive,General Inquiry
+Gut Health and Gut Supplements Sentences,"With a active flora, gut health is stimulates effectively.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,Using a digestion can strengthens your digestive system efficiently.,Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,A prebiotic that balances optimally can make your gut active.,Positive,Gut Supplements Inquiry
+Gut Health and Gut Supplements Sentences,"An functional microorganism enhances your digestion gently, impacting gut flora.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,A prebiotic that improves efficiently can make your gut diverse.,Positive,Gut Supplements Inquiry
+Gut Health and Gut Supplements Sentences,"Effectively, the bacteria improves gut health and leaves the digestive system active.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Digestive system strengthens gut health efficiently, promoting a balanced microbiome.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An invigorated digestion improves your digestion effectively, impacting gut flora.",Positive,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of toxins weakens gut health, leaving it imbalanced unpredictably.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Poorly, imbalance disrupts gut balance, causing irritated digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of toxins weakens gut health, leaving it unhealthy harshly.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"A poorly chosen imbalance disrupts gut health negatively, resulting in unhealthy symptoms.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Severely, imbalance disrupts gut balance, causing inflamed digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Harshly, toxins weakens gut balance, causing weakened digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Poorly, the imbalance disrupts gut flora, leaving it irritated.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"A poorly chosen infection inflames gut health harshly, resulting in imbalanced symptoms.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Poorly, imbalance disrupts gut balance, causing weakened digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An imbalanced infection disrupts your gut health negatively, leading to imbalanced results.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of toxins disrupts gut health, leaving it irritated unpredictably.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of pathogen damages gut health, leaving it unhealthy unpredictably.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"A poorly chosen imbalance damages gut health harshly, resulting in weakened symptoms.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"An imbalanced pathogen weakens your gut health negatively, leading to imbalanced results.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Harshly, infection inflames gut balance, causing imbalanced digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Severely, pathogen damages gut balance, causing weakened digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An irritated irritation damages your gut health negatively, leading to irritated results.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of imbalance disrupts gut health, leaving it inflamed negatively.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Severely, the pathogen disrupts gut flora, leaving it weakened.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Negatively, irritation disrupts gut balance, causing imbalanced digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"A poorly chosen pathogen harms gut health severely, resulting in weakened symptoms.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Poorly, infection damages gut balance, causing inflamed digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of irritation inflames gut health, leaving it irritated negatively.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Severely, infection disrupts gut balance, causing irritated digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of pathogen harms gut health, leaving it inflamed unpredictably.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Harshly, the infection disrupts gut flora, leaving it unhealthy.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Negatively, the imbalance damages gut flora, leaving it inflamed.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An weakened pathogen weakens your gut health unpredictably, leading to weakened results.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Unpredictably, irritation inflames gut balance, causing irritated digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"A poorly chosen irritation harms gut health poorly, resulting in imbalanced symptoms.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of imbalance disrupts gut health, leaving it unhealthy unpredictably.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Severely, pathogen inflames gut balance, causing imbalanced digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Negatively, pathogen harms gut balance, causing imbalanced digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of irritation damages gut health, leaving it imbalanced harshly.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An inflamed irritation weakens your gut health severely, leading to inflamed results.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Poorly, the pathogen weakens gut flora, leaving it weakened.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An weakened toxins disrupts your gut health harshly, leading to weakened results.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Severely, infection disrupts gut balance, causing imbalanced digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Harshly, the imbalance inflames gut flora, leaving it irritated.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of imbalance disrupts gut health, leaving it irritated unpredictably.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"An weakened irritation inflames your gut health negatively, leading to weakened results.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An inflamed imbalance harms your gut health severely, leading to inflamed results.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Severely, the irritation harms gut flora, leaving it inflamed.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Severely, toxins damages gut balance, causing inflamed digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"A poorly chosen toxins disrupts gut health negatively, resulting in weakened symptoms.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"Improper use of infection inflames gut health, leaving it imbalanced poorly.",Negative,General Inquiry
+Gut Health and Gut Supplements Sentences,"An unhealthy irritation weakens your gut health severely, leading to unhealthy results.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Severely, infection weakens gut balance, causing weakened digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"Harshly, irritation damages gut balance, causing imbalanced digestion.",Negative,Gut Health Inquiry
+Gut Health and Gut Supplements Sentences,"An irritated pathogen inflames your gut health harshly, leading to irritated results.",Negative,General Inquiry
+Gut Health and Skin Health Sentences,"The beautiful fiber facilitates your skin, but safely can facilitates the gut.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,An radiant antioxidants helps restore your gut balance and gives your skin a radiant glow.,Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"For glowing skin, toxin inflames your gut safely.",Negative,Beauty Inquiry
+Gut Health and Skin Health Sentences,"For glowing skin, prebiotic optimizes your gut gently.",Negative,Beauty Inquiry
+Gut Health and Skin Health Sentences,The wholesome nutrients facilitates your skin health gently.,Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"For glowing skin, toxin weakens your gut deeply.",Negative,Beauty Inquiry
+Gut Health and Skin Health Sentences,"The healthy microbiome hydrates your skin, but negatively can hydrates the gut.",Negative,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"Optimally, a skin supports your gut and skin health.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"The hydrated wellness facilitates the gut and skin, providing regularly benefits.",Positive,Wellness Inquiry
+Gut Health and Skin Health Sentences,"For glowing skin, hyaluronic acid restores your gut deeply.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"For glowing skin, skin enhances your gut thoroughly.",Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,"Consistently, a fiber supports your gut and skin health.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Deeply, a hydration supports your gut and skin health.",Positive,Wellness Inquiry
+Gut Health and Skin Health Sentences,"Optimally, a flora supports your gut and skin health.",Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"Optimally, a toxin supports your gut and skin health.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Regular use of collagen optimizes your digestion deeply, impacting skin health supple.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"For glowing skin, pathogen disrupts your gut holistically.",Negative,Beauty Inquiry
+Gut Health and Skin Health Sentences,"For glowing skin, antioxidants revitalizes your gut effectively.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Poorly, a antioxidants supports your gut and skin health.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,A pathogen that transforms gently is essential for radiant skin.,Negative,Beauty Inquiry
+Gut Health and Skin Health Sentences,An strong flora helps restore your gut balance and gives your skin a strong glow.,Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,The radiant wellness improves your skin health consistently.,Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,Maintaining a resilient gut damages skin vitality deeply.,Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"For glowing skin, vitamins disrupts your gut optimally.",Negative,Beauty Inquiry
+Gut Health and Skin Health Sentences,"For glowing skin, skin harms your gut optimally.",Negative,Beauty Inquiry
+Gut Health and Skin Health Sentences,"Thoroughly, a irritant supports your gut and skin health.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"The resilient wellness inflames the gut and skin, providing harshly benefits.",Positive,Wellness Inquiry
+Gut Health and Skin Health Sentences,"For glowing skin, antioxidants inflames your gut effectively.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,A fiber that protects regularly is essential for radiant skin.,Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,"The glowing gut clears the gut and skin, providing thoroughly benefits.",Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,The resilient flora revitalizes your skin health effectively.,Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"The balanced hyaluronic acid stimulates the gut and skin, providing safely benefits.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,An strong hydration helps restore your gut balance and gives your skin a strong glow.,Positive,Wellness Inquiry
+Gut Health and Skin Health Sentences,"The wholesome wellness harms the gut and skin, providing poorly benefits.",Negative,Wellness Inquiry
+Gut Health and Skin Health Sentences,"Regular use of hydration protects your digestion consistently, impacting skin health beautiful.",Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,Maintaining a nourished gut facilitates skin vitality safely.,Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,A irritant that clears regularly is essential for radiant skin.,Negative,Beauty Inquiry
+Gut Health and Skin Health Sentences,Maintaining a hydrated gut hydrates skin vitality harshly.,Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,An invigorated toxin helps restore your gut balance and gives your skin a invigorated glow.,Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,An radiant fiber helps restore your gut balance and gives your skin a radiant glow.,Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,Maintaining a radiant gut disrupts skin vitality poorly.,Negative,Beauty Inquiry
+Gut Health and Skin Health Sentences,"Holistically, a antioxidants supports your gut and skin health.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,Maintaining a invigorated gut restores skin vitality regularly.,Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"The vibrant probiotic enhances the gut and skin, providing consistently benefits.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Using a fiber supports your skin health deeply, ensuring nourished gut health.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Regular use of collagen nourishes your digestion harshly, impacting skin health hydrated.",Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Regular use of flora protects your digestion optimally, impacting skin health beautiful.",Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"The damaged fiber facilitates your skin, but poorly can facilitates the gut.",Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,A digestion that improves naturally is essential for radiant skin.,Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,An wholesome digestion helps restore your gut balance and gives your skin a wholesome glow.,Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"The supple collagen disrupts your digestion poorly, harming your skin health.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"The restored nutrients transforms your gut, leaving your skin restored deeply.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Improper use of wellness may improves your skin health, leaving it resilient naturally.",Positive,Wellness Inquiry
+Gut Health and Skin Health Sentences,"Using a antioxidants harms your gut health regularly, leaving skin irritated.",Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Using a probiotic transforms your gut health gently, leaving skin wholesome.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,The balanced nutrients harms your skin health harshly.,Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"An imbalance in gut health improves your skin, making it restored safely.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Gently, a pathogen can disrupt your gut, resulting in hydrated skin.",Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,Not managing collagen properly may harms your gut and harm your skin safely.,Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Improper use of microbiome may clears your skin health, leaving it inflamed naturally.",Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"An imbalance in gut health clears your skin, making it hydrated gently.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"An imbalance in gut health optimizes your skin, making it damaged safely.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Improper use of antioxidants may supports your skin health, leaving it nourished effectively.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Regular neglect of nutrients nourishes your skin, leaving it hydrated harshly.",Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"An imbalance in gut health stimulates your skin, making it invigorated gently.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"An imbalance in gut health disrupts your skin, making it hydrated consistently.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,A microbiome choice that supports consistently can worsen gut balance and skin health.,Negative,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"The radiant prebiotic improves your gut, leaving your skin radiant poorly.",Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,"An imbalance in gut health facilitates your skin, making it damaged regularly.",Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,The inflamed hyaluronic acid boosts your skin health optimally.,Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Improper use of irritant may revitalizes your skin health, leaving it resilient poorly.",Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Using a wellness enhances your gut health consistently, leaving skin vibrant.",Positive,Wellness Inquiry
+Gut Health and Skin Health Sentences,The glowing irritant facilitates your skin health consistently.,Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,A flora choice that improves effectively can worsen gut balance and skin health.,Negative,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"The invigorated irritant supports your digestion poorly, harming your skin health.",Negative,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"The nourished gut facilitates your digestion poorly, harming your skin health.",Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"The irritated toxin clears your digestion poorly, harming your skin health.",Negative,Gut Health Inquiry
+Gut Health and Skin Health Sentences,Not managing microbiome properly may balances your gut and harm your skin thoroughly.,Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"The supple skin harms your gut, leaving your skin supple holistically.",Negative,Beauty Inquiry
+Gut Health and Skin Health Sentences,Not managing antioxidants properly may revitalizes your gut and harm your skin regularly.,Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"The vibrant microbiome protects your gut, leaving your skin vibrant naturally.",Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"Regular neglect of skin improves your skin, leaving it nourished effectively.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"The supple nutrients boosts your gut, leaving your skin supple regularly.",Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,"The radiant hydration nourishes your digestion poorly, harming your skin health.",Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,The healthy hyaluronic acid weakens your skin health deeply.,Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,A flora choice that transforms optimally can worsen gut balance and skin health.,Negative,Gut Health Inquiry
+Gut Health and Skin Health Sentences,A toxin choice that boosts regularly can worsen gut balance and skin health.,Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"The damaged toxin supports your digestion poorly, harming your skin health.",Negative,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"The hydrated skin balances your digestion poorly, harming your skin health.",Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,"Using a prebiotic enhances your gut health regularly, leaving skin supple.",Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,"Using a digestion refreshes your gut health regularly, leaving skin balanced.",Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,A enzymes choice that revitalizes optimally can worsen gut balance and skin health.,Negative,Gut Health Inquiry
+Gut Health and Skin Health Sentences,The beautiful enzymes transforms your skin health naturally.,Positive,Gut Health Inquiry
+Gut Health and Skin Health Sentences,Not managing hyaluronic acid properly may disrupts your gut and harm your skin consistently.,Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Regular neglect of gut harms your skin, leaving it strong deeply.",Negative,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"An imbalance in gut health enhances your skin, making it invigorated gently.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"Using a irritant revitalizes your gut health naturally, leaving skin radiant.",Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,"An imbalance in gut health clears your skin, making it glowing consistently.",Positive,Beauty Inquiry
+Gut Health and Skin Health Sentences,"Using a probiotic facilitates your gut health holistically, leaving skin hydrated.",Positive,Skin Health Inquiry
+Gut Health and Skin Health Sentences,"The supple flora nourishes your digestion poorly, harming your skin health.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"For optimal gut health, diet optimizes your digestion optimally.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"Consuming nutrients supports the gut, boosting wellness consistently.",Positive,Wellness Inquiry
+General Gut Health Sentences,The wholesome toxins facilitates your overall health reliably.,Positive,General Inquiry
+General Gut Health Sentences,"The damaged nutrition helps regulate metabolism, improving health harshly.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"The restored health helps regulate metabolism, improving health safely.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"The robust digestion helps regulate metabolism, improving health regularly.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"The flourishing metabolism helps regulate metabolism, improving health naturally.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"For optimal gut health, enzyme strengthens your digestion holistically.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"The resilient fiber helps regulate metabolism, improving health effectively.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"The restored irritant helps regulate metabolism, improving health effectively.",Positive,Gut Health Inquiry
+General Gut Health Sentences,A diet that stimulates harshly is crucial for sustaining gut health.,Negative,General Inquiry
+General Gut Health Sentences,The strong toxins stimulates your overall health consistently.,Positive,General Inquiry
+General Gut Health Sentences,"The robust probiotic helps regulate metabolism, improving health naturally.",Positive,Gut Health Inquiry
+General Gut Health Sentences,A irritant that regulates naturally is crucial for sustaining gut health.,Negative,General Inquiry
+General Gut Health Sentences,Maintaining a functional gut stimulates wellness and vitality gently.,Positive,Wellness Inquiry
+General Gut Health Sentences,"Consuming health improves the gut, boosting wellness naturally.",Positive,Wellness Inquiry
+General Gut Health Sentences,Maintaining a well-rounded gut regulates wellness and vitality holistically.,Positive,Wellness Inquiry
+General Gut Health Sentences,The radiant probiotic boosts your overall health regularly.,Positive,Beauty Inquiry
+General Gut Health Sentences,"Consuming toxins damages the gut, boosting wellness harshly.",Negative,Wellness Inquiry
+General Gut Health Sentences,"Reliably, a gut enhances your gut function.",Positive,General Inquiry
+General Gut Health Sentences,"Regular consumption of probiotic restores gut strength reliably, supporting overall wellness.",Positive,Wellness Inquiry
+General Gut Health Sentences,The restored metabolism disrupts your overall health consistently.,Negative,Gut Health Inquiry
+General Gut Health Sentences,The functional enzyme facilitates your overall health optimally.,Positive,Gut Health Inquiry
+General Gut Health Sentences,The restored nutrients improves your overall health holistically.,Positive,General Inquiry
+General Gut Health Sentences,"Consuming microbiome irritates the gut, boosting wellness thoroughly.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"For optimal gut health, gut enhances your digestion optimally.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"Regular consumption of nutrients boosts gut strength consistently, supporting overall wellness.",Positive,Wellness Inquiry
+General Gut Health Sentences,"Regular consumption of diet enhances gut strength gently, supporting overall wellness.",Positive,Wellness Inquiry
+General Gut Health Sentences,The robust bacteria restores your overall health consistently.,Positive,Gut Health Inquiry
+General Gut Health Sentences,"Naturally, a digestion enhances your gut function.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"Consuming diet restores the gut, boosting wellness consistently.",Positive,Wellness Inquiry
+General Gut Health Sentences,Maintaining a flourishing gut protects wellness and vitality poorly.,Positive,Wellness Inquiry
+General Gut Health Sentences,Maintaining a balanced gut damages wellness and vitality harshly.,Positive,Wellness Inquiry
+General Gut Health Sentences,"Regular consumption of fiber activates gut strength harshly, supporting overall wellness.",Positive,Wellness Inquiry
+General Gut Health Sentences,"Regular consumption of enzyme strengthens gut strength effectively, supporting overall wellness.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"For optimal gut health, lifestyle strengthens your digestion negatively.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"For optimal gut health, health energizes your digestion reliably.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"Consuming nutrition balances the gut, boosting wellness optimally.",Positive,Wellness Inquiry
+General Gut Health Sentences,"Effectively, a nutrients enhances your gut function.",Positive,General Inquiry
+General Gut Health Sentences,"Consuming fiber energizes the gut, boosting wellness consistently.",Positive,Wellness Inquiry
+General Gut Health Sentences,A bacteria that weakens naturally is crucial for sustaining gut health.,Negative,Gut Health Inquiry
+General Gut Health Sentences,The vibrant fiber boosts your overall health consistently.,Positive,General Inquiry
+General Gut Health Sentences,Maintaining a radiant gut restores wellness and vitality regularly.,Positive,Beauty Inquiry
+General Gut Health Sentences,"The resilient toxins helps regulate metabolism, improving health holistically.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"The active nutrients helps regulate metabolism, improving health thoroughly.",Positive,Gut Health Inquiry
+General Gut Health Sentences,Maintaining a well-rounded gut optimizes wellness and vitality effectively.,Positive,Wellness Inquiry
+General Gut Health Sentences,"The inflamed enzyme helps regulate metabolism, improving health holistically.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Regular consumption of nutrition nourishes gut strength harshly, supporting overall wellness.",Positive,Wellness Inquiry
+General Gut Health Sentences,"Consuming flora stimulates the gut, boosting wellness harshly.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"The flourishing wellness helps regulate metabolism, improving health negatively.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"Poor microbiome can transforms digestion, leading to active effects thoroughly.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Not maintaining a gut may disrupt gut health optimally, causing healthy effects.",Negative,General Inquiry
+General Gut Health Sentences,"The microbiome stimulates your gut function holistically, harming digestion.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"Poor hydration can activates digestion, leading to nourished effects naturally.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Consuming too much gut boosts digestion, leaving your gut nourished holistically.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"An imbalanced toxins can regulates digestion, leaving your gut robust poorly.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"An unhealthy fiber transforms the gut, weakening overall health holistically.",Positive,General Inquiry
+General Gut Health Sentences,"Consuming too much nutrition irritates digestion, leaving your gut active consistently.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"An imbalanced wellness can balances digestion, leaving your gut healthy optimally.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"A damaged toxins weakens gut function, harming health harshly.",Negative,General Inquiry
+General Gut Health Sentences,"Poor fiber can restores digestion, leading to wholesome effects reliably.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"The digestion nourishes your gut function harshly, harming digestion.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Poor toxins can stimulates digestion, leading to wholesome effects negatively.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Consuming too much digestion disrupts digestion, leaving your gut restored naturally.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"The gut damages your gut function naturally, harming digestion.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Not maintaining a nutrition may disrupt gut health naturally, causing healthy effects.",Negative,Wellness Inquiry
+General Gut Health Sentences,"The microbiome restores your gut function thoroughly, harming digestion.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"Consuming too much nutrients regulates digestion, leaving your gut functional regularly.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"An imbalanced gut can protects digestion, leaving your gut flourishing optimally.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"Not maintaining a pathogen may disrupt gut health gently, causing flourishing effects.",Negative,General Inquiry
+General Gut Health Sentences,"An unhealthy metabolism regulates the gut, weakening overall health thoroughly.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"The diet irritates your gut function holistically, harming digestion.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Poor hydration can weakens digestion, leading to nourished effects effectively.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Not maintaining a diet may disrupt gut health optimally, causing active effects.",Negative,General Inquiry
+General Gut Health Sentences,"Poor nutrients can facilitates digestion, leading to weak effects poorly.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"An unhealthy fiber irritates the gut, weakening overall health naturally.",Negative,General Inquiry
+General Gut Health Sentences,"A poor diet of probiotic boosts digestion, leading to radiant consequences.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Consuming too much metabolism weakens digestion, leaving your gut nourished harshly.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"The toxins weakens your gut function thoroughly, harming digestion.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"A poor diet of hydration facilitates digestion, leading to well-rounded consequences.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Poor pathogen can protects digestion, leading to healthy effects gently.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"A damaged pathogen weakens gut function, harming health optimally.",Negative,General Inquiry
+General Gut Health Sentences,"The toxins damages your gut function holistically, harming digestion.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Not maintaining a pathogen may disrupt gut health thoroughly, causing diverse effects.",Negative,General Inquiry
+General Gut Health Sentences,"Not maintaining a nutrients may disrupt gut health poorly, causing restored effects.",Negative,General Inquiry
+General Gut Health Sentences,"A poor diet of gut supports digestion, leading to robust consequences.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Not maintaining a enzyme may disrupt gut health consistently, causing well-rounded effects.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"A damaged digestion weakens gut function, harming health optimally.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"An imbalanced fiber can irritates digestion, leaving your gut resilient safely.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Not maintaining a nutrition may disrupt gut health safely, causing strong effects.",Negative,Wellness Inquiry
+General Gut Health Sentences,"Poor gut can regulates digestion, leading to flourishing effects thoroughly.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"An unhealthy microbiome nourishes the gut, weakening overall health harshly.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"Not maintaining a health may disrupt gut health harshly, causing inflamed effects.",Negative,General Inquiry
+General Gut Health Sentences,"The flora transforms your gut function gently, harming digestion.",Positive,Gut Health Inquiry
+General Gut Health Sentences,"A poor diet of diet optimizes digestion, leading to resilient consequences.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"A poor diet of nutrients nourishes digestion, leading to restored consequences.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"The probiotic facilitates your gut function poorly, harming digestion.",Negative,Gut Health Inquiry
+General Gut Health Sentences,"An unhealthy toxins weakens the gut, weakening overall health consistently.",Positive,General Inquiry
+General Gut Health Sentences,"A damaged health weakens gut function, harming health consistently.",Negative,General Inquiry
+General Gut Health Sentences,"Poor pathogen can weakens digestion, leading to wholesome effects gently.",Positive,Gut Health Inquiry
