@@ -1,4 +1,7 @@
-# The Root Remedy Collaboration
+# The Root Remedy Chatbot Project
+
+**Project Team Members**: 
+-**Rane Dy(Project Lead)**, **Zhuohan Zhang**
 
 ## 📖 Purpose  
 
@@ -149,6 +152,4 @@ Special thanks to Swagath B for being our TA throughout the project and for prov
 Special thanks to Break Through Tech AI Program for providing the opportunities and experiences related to data science, machine learning, and AI. 
 Additional acknowledgments go to Hugging Face for providing tools essential for this project.  
 
-**Team Members**: 
--**Rane Dy(Project Lead)**
--**Zhuohan Zhang**
+
