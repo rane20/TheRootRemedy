@@ -1,7 +1,8 @@
 # The Root Remedy Chatbot Project
 
 **Project Team Members**: 
--**Rane Dy(Project Lead)**, **Zhuohan Zhang**
+- **Rane Dy(Project Lead)**
+- **Zhuohan Zhang**
 
 ## 📖 Purpose  
 
